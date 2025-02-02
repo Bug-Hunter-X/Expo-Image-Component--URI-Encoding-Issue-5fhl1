@@ -1,0 +1,1 @@
+This repository demonstrates a bug in the Expo `Image` component where images with URIs containing special characters fail to load. The bug is reproduced in `bug.js`, and a solution is provided in `bugSolution.js`.
